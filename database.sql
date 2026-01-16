@@ -1,8 +1,8 @@
--- Create DATABASE
+-- CREATE DATABASE
 CREATE DATABASE inventory_management;
 
 
--- Use DATABASE
+-- USE DATABASE
 USE inventory_management_system;
 
 -- CREATION OF ENITITIES
